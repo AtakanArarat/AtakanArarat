@@ -1,0 +1,2 @@
+tork robotik fethiye için geliştirdiğim seri port haberleşme programı çalışması
+taslak çalışmamdan sonra son versiyonu meslektaşım ile geliştirdim 
