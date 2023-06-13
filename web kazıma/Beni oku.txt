@@ -1,0 +1,2 @@
+twitter entry alma ve entry like botu programıdır.
+kullanıcı bilgilerini ayrı modülden alarak çalıştırabilirsiniz şu halinde çalışmaz
