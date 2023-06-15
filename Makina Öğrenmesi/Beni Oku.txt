@@ -1,2 +1,0 @@
-Bu klasör şu anki makina öğrenmesi çalışmamın dökümantasyonudur.
-veri analizi ve görselleştirmesi sonrasında model geliştirip eğitme aşamasındayım.
